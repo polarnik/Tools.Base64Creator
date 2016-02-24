@@ -1,5 +1,9 @@
 ## Tools.Base64Creator
 
+Скачать:
+
+- [Tools.Base64Creator.v0.1.zip](/uploads/7f1ae9d92fc9f1ed76aa58044b37ace9/Tools.Base64Creator.v0.1.zip)
+
 Позволяет преобразовывать файлы любого размера в формат Base64.
 
 ![Приложение во время работы](main.png)
